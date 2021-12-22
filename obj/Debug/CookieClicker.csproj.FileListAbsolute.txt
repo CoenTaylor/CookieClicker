@@ -1,0 +1,10 @@
+\\et-fileserver\students\2025\adambeilke25\Desktop\CookieClicker\bin\Debug\CookieClicker.exe.config
+\\et-fileserver\students\2025\adambeilke25\Desktop\CookieClicker\bin\Debug\CookieClicker.exe
+\\et-fileserver\students\2025\adambeilke25\Desktop\CookieClicker\bin\Debug\CookieClicker.pdb
+\\et-fileserver\students\2025\adambeilke25\Desktop\CookieClicker\obj\Debug\CookieClicker.csproj.AssemblyReference.cache
+\\et-fileserver\students\2025\adambeilke25\Desktop\CookieClicker\obj\Debug\CookieClicker.Form1.resources
+\\et-fileserver\students\2025\adambeilke25\Desktop\CookieClicker\obj\Debug\CookieClicker.Properties.Resources.resources
+\\et-fileserver\students\2025\adambeilke25\Desktop\CookieClicker\obj\Debug\CookieClicker.csproj.GenerateResource.cache
+\\et-fileserver\students\2025\adambeilke25\Desktop\CookieClicker\obj\Debug\CookieClicker.csproj.CoreCompileInputs.cache
+\\et-fileserver\students\2025\adambeilke25\Desktop\CookieClicker\obj\Debug\CookieClicker.exe
+\\et-fileserver\students\2025\adambeilke25\Desktop\CookieClicker\obj\Debug\CookieClicker.pdb

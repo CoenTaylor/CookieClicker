@@ -16,5 +16,10 @@ namespace CookieClicker
         {
             InitializeComponent();
         }
+
+        private void noodlePictureBox_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
